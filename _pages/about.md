@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Home"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-+ This is Dr. Test Account's home on the web!
-
-+ Lorem ipsum.
+I’m Carlos A. Plata, a Post-Doc at the University of Padova. I work in the LiPh lab under the supervision of Prof. Samir Suweis.
