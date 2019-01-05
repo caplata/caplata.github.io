@@ -15,7 +15,7 @@ Education
 * M.S. in Physics and Mathematics, University of Granada, 2013-2014
 * Ph.D in Physics, University of Sevilla, 2014-2018
   * Title: From proteins to grains: a journey through simple models
-  * Ph.D Advisor: Antonio Prados Montaño
+  * Ph.D Advisor: Antonio Prados
 
 Work experience
 ======
