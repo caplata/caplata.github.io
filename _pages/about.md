@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I’m Carlos A. Plata, a Post-Doc at the University of Padova. I work in the LiPh lab under the supervision of Prof. Samir Suweis.
+I’m Carlos A. Plata, a Tenured Associate Professor at the University of Sevilla. I work in the FINE (Interdisciplinary and Non-Equilibrium Physics - Física Interdisciplinar y de No-Equilibrio) group.
