@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* 2014-2018: PhD Student (FPU Spanish Program)
+* 2014-2020: PhD Student (FPU Spanish Program)
   * University of Sevilla
   * Supervisor: Antonio Prados
 
